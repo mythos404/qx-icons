@@ -2,11 +2,11 @@
   "name": "Saul's Icons",
   "description": "自用图标包",
   "icons": [
-    "https://raw.githubusercontent.com/mythos404/qx-icons/main/hk.png",
-    "https://raw.githubusercontent.com/mythos404/qx-icons/main/tw.png",
-    "https://raw.githubusercontent.com/mythos404/qx-icons/main/jp.png",
-    "https://raw.githubusercontent.com/mythos404/qx-icons/main/sg.png",
-    "https://raw.githubusercontent.com/mythos404/qx-icons/main/us.png",
-    "https://raw.githubusercontent.com/mythos404/qx-icons/main/gb.png"
+    "https://cdn.jsdelivr.net/gh/mythos404/qx-icons@main/hk.png",
+    "https://cdn.jsdelivr.net/gh/mythos404/qx-icons@main/tw.png",
+    "https://cdn.jsdelivr.net/gh/mythos404/qx-icons@main/jp.png",
+    "https://cdn.jsdelivr.net/gh/mythos404/qx-icons@main/sg.png",
+    "https://cdn.jsdelivr.net/gh/mythos404/qx-icons@main/us.png",
+    "https://cdn.jsdelivr.net/gh/mythos404/qx-icons@main/gb.png"
   ]
 }
